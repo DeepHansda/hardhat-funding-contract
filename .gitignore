@@ -8,5 +8,6 @@ typechain-types
 # Hardhat files
 cache
 artifacts
-gas-reporter.txt
+gas-report.txt
+deployments
 
